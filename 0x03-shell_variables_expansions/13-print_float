@@ -1,2 +1,2 @@
 #!/bin/bash
-prinyf "$0.2f\n" $NUM
+prinyf "%0.2f\n" $NUM
